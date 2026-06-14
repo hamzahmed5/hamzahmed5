@@ -5,8 +5,11 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=hamzahmed5&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A8D8EA&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+matter;IEEE+SMILEs+2026+Research+Presenter;Always+learning+%C2%B7+Always+building)
+<img src="https://komarev.com/ghpvc/?username=hamzahmed5&style=flat-square&color=a8d8ea&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A8D8EA&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=Building+ML+systems+that+matter;IEEE+SMILEs+2026+Research+Presenter;Always+learning+%C2%B7+Always+building" alt="Typing SVG"/>
 
 </div>
 
