@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hamzahmed5&style=flat-square&color=a8d8ea&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+### 🚀 Software Engineering Student · Building ML & Full-Stack Solutions
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=hamzahmed5&style=flat-square&color=2c5364&labelColor=0d1117&label=PROFILE+VIEWS"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A8D8EA&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=Building+ML+systems+that+matter;IEEE+SMILEs+2026+Research+Presenter;Always+learning+%C2%B7+Always+building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A8D8EA&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=Building+ML+systems+that+matter;IEEE+SMILEs+2026+Research+Presenter;NS4W+Hackathon+%E2%80%94+4th+Place+%2B+2+Awards;Always+learning+%C2%B7+Always+building"/>
 
 </div>
 
@@ -87,7 +87,7 @@ hamza = {
 **🌐 Jobs & Skills Platform**
 <br><sub>HTML · CSS · JS · API Integration</sub>
 
-Dual-sided job marketplace with separate employer/candidate dashboards and a responsive, internationalized frontend.
+Dual-sided job marketplace with separate employer and candidate dashboards, plus a responsive, internationalized frontend.
 
 </td>
 <td width="33%" valign="top">
@@ -108,6 +108,15 @@ Modular gym operations system with reusable components for member and admin work
 </td>
 </tr>
 </table>
+
+-----
+
+### 🎓 Education
+
+**Bachelor of Computer Science** — Middle East University
+<br><sub>Expected Graduation: 2027</sub>
+
+Relevant coursework: Data Structures & Algorithms, Database Systems, System Analysis & Design, Computer Networks, Software Engineering, Object-Oriented Programming.
 
 -----
 
@@ -146,3 +155,5 @@ Modular gym operations system with reusable components for member and admin work
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </div>
 ```
+
+Added a tagline above the badges, added an Education section pulled from your CV, and the theme stays consistent throughout (deep blue/teal `0d1117`/`2c5364`/`a8d8ea` palette).
