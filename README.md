@@ -1,11 +1,10 @@
-```markdown
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hamza%20Salem&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineer%20·%20Machine%20Learning%20·%20Web%20Development&descAlignY=58&descSize=17&descColor=a8d8ea&animation=fadeIn"/>
 </div>
 
 <div align="center">
 
-### 🚀 Software Engineering Student · Building ML & Full-Stack Solutions
+### 🚀 Computer Science Student · Building ML & Full-Stack Solutions
 
 <img src="https://komarev.com/ghpvc/?username=hamzahmed5&style=flat-square&color=2c5364&labelColor=0d1117&label=PROFILE+VIEWS"/>
 
@@ -19,9 +18,12 @@
 ```python
 hamza = {
     "role"      : "Computer Science Student (Expected 2027)",
-    "focus"     : ["Machine Learning", "Web Development", "Systems Design"],
-    "interests" : ["AI", "Ensemble Learning", "Azure", "Back-End Development"],
-    "research"  : "IEEE SMILEs 2026 — Stacked Ensemble Framework for Genetic Disorder Classification",
+    "summary"   : "Hands-on experience in full-stack development, machine learning, and systems design",
+    "languages" : ["Python", "C++", "JavaScript", "HTML/CSS", "SQL (learning)"],
+    "concepts"  : ["OOP", "Data Structures & Algorithms", "System Design", "REST API Integration"],
+    "ml"        : ["Ensemble Learning", "Classification Models", "ML Fundamentals"],
+    "research"  : "Presented original ensemble ML research at IEEE SMILEs 2026",
+    "seeking"   : "Internship or junior roles in Software Engineering or AI Development",
     "motto"     : "Always learning · Always building"
 }
 ```
@@ -38,19 +40,22 @@ hamza = {
 <br><sub>Dec 2025 · with SourceHive</sub>
 <br>🏅 Best Research Award
 <br>💡 Best Idea Award
+<br><sub>Ranked 4th among competing teams and earned dual recognition by developing and pitching an ML-based solution within a time-constrained, cross-functional team environment.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**📄 IEEE SMILEs 2026**
-<br><sub>Research Presenter</sub>
+**📄 Research Presenter — IEEE SMILEs 2026**
+<br><sub>International Conference on Smart Multidomain Integrated Learning Environments</sub>
 <br>*"An Advanced Stacked Ensemble Framework for Genetic Disorder Classification"*
+<br><sub>Designed and presented a stacked ensemble pipeline for multi-class genetic disorder classification, combining multiple base classifiers to reduce single-model bias. Owned classification model evaluation, metric analysis, and framework integration within a 4-person multidisciplinary team.</sub>
 
 </td>
 </tr>
 </table>
 
 📜 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** — May 2026
+<br><sub>Credential ID: 90083901</sub>
 
 -----
 
@@ -78,32 +83,32 @@ hamza = {
 
 -----
 
-### 📂 Featured Projects
+### 📂 Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 **🌐 Jobs & Skills Platform**
-<br><sub>HTML · CSS · JS · API Integration</sub>
+<br><sub>HTML · CSS · JavaScript · API Integration</sub>
 
-Dual-sided job marketplace with separate employer and candidate dashboards, plus a responsive, internationalized frontend.
+Full-featured matching platform with separate employer and candidate dashboards from a single codebase. Responsive, internationalized frontend that adapts layout and language across screen sizes. Integrated third-party APIs to automate frontend-backend data flow.
 
 </td>
 <td width="33%" valign="top">
 
 **✈️ Flight Booking System**
-<br><sub>Python · OOP</sub>
+<br><sub>Python</sub>
 
-End-to-end reservation system handling booking creation, modification, and customer records.
+End-to-end reservation management for a simulated airline system — booking creation, modification, and customer record handling using OOP principles. Reduced code duplication through reusable class hierarchies for customer and reservation logic.
 
 </td>
 <td width="33%" valign="top">
 
 **🏋️ Gym Management System**
-<br><sub>C++ · OOP</sub>
+<br><sub>C++</sub>
 
-Modular gym operations system with reusable components for member and admin workflows.
+Modular gym operations system with distinct components for user data, membership tracking, and operational workflows. Refactored into reusable OOP components, reducing redundant logic across member and admin modules.
 
 </td>
 </tr>
@@ -116,7 +121,8 @@ Modular gym operations system with reusable components for member and admin work
 **Bachelor of Computer Science** — Middle East University
 <br><sub>Expected Graduation: 2027</sub>
 
-Relevant coursework: Data Structures & Algorithms, Database Systems, System Analysis & Design, Computer Networks, Software Engineering, Object-Oriented Programming.
+- Relevant coursework: Data Structures & Algorithms, Database Systems, System Analysis & Design, Computer Networks, Software Engineering, Object-Oriented Programming.
+- Contributed to IEEE-published ensemble ML research as a sophomore.
 
 -----
 
@@ -154,6 +160,3 @@ Relevant coursework: Data Structures & Algorithms, Database Systems, System Anal
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </div>
-```
-
-Added a tagline above the badges, added an Education section pulled from your CV, and the theme stays consistent throughout (deep blue/teal `0d1117`/`2c5364`/`a8d8ea` palette).
